@@ -1,0 +1,12 @@
+python-dotenv
+openai
+langchain
+pypdf
+chromadb
+lark
+panel
+jupyter_bokeh
+scikit-learn
+pypdf
+yt_dlp
+pydub
